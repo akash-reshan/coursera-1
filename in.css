@@ -1,0 +1,42 @@
+body{
+	background-color: white;
+	color: grey;
+}
+.navbar-light{
+	background-color:pink;
+	position: relative;
+}
+.navbar .navbar-brand{
+	font-size: 8lw;
+	color:white;
+
+}
+.navbar-light .navbar-toggler{
+	position: absolute;
+	background-color: transparent;
+	height: 40px;
+	width: 64px;
+	right:0%;
+	left:60%%;
+	border:black;
+}
+.nav-link{
+	color: black;
+	padding:5px;
+	border:0px;
+	text-align: right
+}
+.navbar-light .nav-link:hover{
+	background-color: yellow;
+	color: white;
+}
+.head{
+	text-align: center;
+}
+.container{
+	background-color: grey;
+	color: white;
+	border:10px solid white;
+	border-top:0px;
+}
+@media(min-width: )
